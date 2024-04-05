@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import inquirer from "inquirer"
 
-console.log("\n\Welcome to ShoaibHabib - CLI Number Guessing Game\n");
+console.log("\n\tWelcome to ShoaibHabib - CLI Number Guessing Game\n");
 
 const randomNumber = Math.floor(Math.random() * 5 + 1);
 
